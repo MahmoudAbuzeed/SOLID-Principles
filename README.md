@@ -5,15 +5,11 @@ What is SOLID ?
 - SOLID is a popular set of design principles that are used in object-oriented software development.
 - SOLID is an acronym that stands for five key design principles:
 
-<h2> S => Single responsibility principle</h2>
-
-# O => Open-closed principle
-
-# L => Liskov substitution principle
-
-# I => Interface segregation principle
-
-# D => Dependency inversion principle
+<h4> S => Single responsibility principle</h4>
+<h4> O => Open-closed principle</h4>
+<h4> L => Liskov substitution principle</h4>
+<h4> I => Interface segregation principle</h4>
+<h4> D => Dependency inversion principle</h4>
 
 # Why SOLID ?
 
