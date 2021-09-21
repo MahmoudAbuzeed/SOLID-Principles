@@ -1,4 +1,5 @@
 /* SINGLE RESPONSIBILITY PRINCIPLE (SRP)
+
  This principle mean that, “a class should have one, and only one, reason to change.”
  Following this principle means that each class only does one thing and every class or module only has responsibility for one part of the software’s functionality.
  More simply, each class should solve only one problem.
